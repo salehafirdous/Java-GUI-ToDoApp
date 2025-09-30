@@ -22,7 +22,6 @@ ElevateLabsInternship/
 └── TodoApp.java
 ```
 
-
 ## How to Run:
 1. Open the project in **Eclipse IDE** (or any Java IDE).
 2. Make sure you have at least JDK 8 installed.
@@ -47,6 +46,12 @@ ElevateLabsInternship/
 
 ## Sample Output
 
+<img width="880" height="577" alt="ToDoApp_Output" src="https://github.com/user-attachments/assets/fa2bb079-cf26-477e-b18f-9a7d4148af63" />
+
+
+- Name: Saleha Firdous Syed Qamar
+- Internship Domain: Java Full Stack
+- Date: 30 September 2025
 
 
 
