@@ -53,7 +53,7 @@ ElevateLabsInternship/
 
 
 - Name: Saleha Firdous Syed Qamar
-- Internship Domain: Java Full Stack
+- Internship Domain: Java Developer 
 - Date: 30 September 2025
 
 
